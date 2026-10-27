@@ -1,0 +1,119 @@
+{
+  "bank_id": "ILANDS_PHENOTYPE_V1",
+  "comparative_note": "executor-robustness rerun ONLY; the original phenotype_v1 award is unchanged; this run grants no award of record",
+  "condition_id": "phenotype_terra_v1",
+  "elapsed_seconds": 1936.1,
+  "entrants": 96,
+  "fully_stable_entrants": 66,
+  "identical_phenotype_group_sizes": [
+    2,
+    2,
+    2,
+    2,
+    4,
+    3,
+    2,
+    2,
+    3,
+    2,
+    3
+  ],
+  "identical_phenotype_groups": 11,
+  "measured_attempts": {
+    "attempts_total": 13830,
+    "failure_examples": [
+      {
+        "attempt_id": "f22482bfdc314ee2847479fe805ee364",
+        "entry_id": "E017",
+        "error": "InternalServerError: Error code: 503 - {'error': {'message': 'Our servers are currently overloaded. Please try again later.', 'type': 'service_unavailable_error', 'param': None, 'code': 'server_is_overloaded'}}",
+        "executor_id": "terra_effortnone_t0",
+        "fingerprint": "9fd432d3ae8c80b0eb23ca746d64a04d5072e828ae9d23ec6cf1591b635f3202",
+        "outcome": "provider_error",
+        "phase": "assay",
+        "sample_index": 1,
+        "state_id": "p12_f2_r25_defect_on_24"
+      },
+      {
+        "attempt_id": "1be3f6d7807f4dc28948cafbac46b659",
+        "entry_id": "E083",
+        "error": "InternalServerError: Error code: 503 - {'error': {'message': 'Our servers are currently overloaded. Please try again later.', 'type': 'service_unavailable_error', 'param': None, 'code': 'server_is_overloaded'}}",
+        "executor_id": "terra_effortnone_t0",
+        "fingerprint": "2dc4ea88c4beb8e6fef2c30cec7c8ad4a50e4676d0bb5ddcb50fb8da79705a2e",
+        "outcome": "provider_error",
+        "phase": "assay",
+        "sample_index": 2,
+        "state_id": "p18_f3_r12_persistent_recent"
+      },
+      {
+        "attempt_id": "a6f3775920944bb89e5ff2492ee5eb3c",
+        "entry_id": "E083",
+        "error": "InternalServerError: Error code: 503 - {'error': {'message': 'Our servers are currently overloaded. Please try again later.', 'type': 'service_unavailable_error', 'param': None, 'code': 'server_is_overloaded'}}",
+        "executor_id": "terra_effortnone_t0",
+        "fingerprint": "6e74e77b1e27efa405628f59789ed2d2997d773531fc293d5176a59570f02b40",
+        "outcome": "provider_error",
+        "phase": "assay",
+        "sample_index": 1,
+        "state_id": "p41_f7_r18_early_war_long_peace"
+      },
+      {
+        "attempt_id": "5a67beb4d446478fae1792a810233cca",
+        "entry_id": "E084",
+        "error": "InternalServerError: Error code: 503 - {'error': {'message': 'Our servers are currently overloaded. Please try again later.', 'type': 'service_unavailable_error', 'param': None, 'code': 'server_is_overloaded'}}",
+        "executor_id": "terra_effortnone_t0",
+        "fingerprint": "5204114248aff27a2407cc472c31e56859d392e41251d5803a1e56661ca4c957",
+        "outcome": "provider_error",
+        "phase": "assay",
+        "sample_index": 2,
+        "state_id": "p12_f2_r25_defect_on_24"
+      },
+      {
+        "attempt_id": "e457370783134c4bb32902bb76a9367e",
+        "entry_id": "E084",
+        "error": "InternalServerError: Error code: 503 - {'error': {'message': 'Our servers are currently overloaded. Please try again later.', 'type': 'service_unavailable_error', 'param': None, 'code': 'server_is_overloaded'}}",
+        "executor_id": "terra_effortnone_t0",
+        "fingerprint": "abfb93e89a9c29b018d06e60a8f98aa63f0dbc3e4389ea4910a29e425d8e0bd8",
+        "outcome": "provider_error",
+        "phase": "assay",
+        "sample_index": 2,
+        "state_id": "p26_f5_r07_lapse_punished"
+      },
+      {
+        "attempt_id": "ef28dc0e6c584b66ad27f2d5b1b2c058",
+        "entry_id": "E084",
+        "error": "InternalServerError: Error code: 503 - {'error': {'message': 'Our servers are currently overloaded. Please try again later.', 'type': 'service_unavailable_error', 'param': None, 'code': 'server_is_overloaded'}}",
+        "executor_id": "terra_effortnone_t0",
+        "fingerprint": "6990f62553c002163f8ac8b348667fa6ae0b37bb72178a7871bbe359b70e2dcc",
+        "outcome": "provider_error",
+        "phase": "assay",
+        "sample_index": 2,
+        "state_id": "p38_f7_r16_bad_ledger_good_recent"
+      }
+    ],
+    "known_usd": 12.160628,
+    "latency_p50_s": 1.333,
+    "latency_p95_s": 1.706,
+    "measured_usd_total": 12.176062,
+    "outcomes": {
+      "contract_failure": 0,
+      "provider_error": 6,
+      "success": 13824
+    },
+    "retry_attempts": 6,
+    "tokens": {
+      "cached_input_tokens": 0,
+      "input_tokens": 9436608,
+      "output_tokens": 544804,
+      "reasoning_tokens": 0,
+      "total_tokens": 9981412
+    },
+    "unknown_conservative_usd": 0.015434
+  },
+  "run_id": "20261026-181626-6fd52aa1",
+  "spend_committed_usd": 12.1761,
+  "top_by_novelty": [
+    "E061"
+  ],
+  "top_novelty_raw": 74,
+  "top_novelty_score": 0.308333,
+  "top_shared": false
+}
