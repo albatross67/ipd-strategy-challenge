@@ -108,20 +108,6 @@ The field offered substantial returns to maintaining cooperation. Some strategie
 
 The broader questions about probing and forgiveness remain worth examining. The observed trajectories are available now; a systematic comparison of strategy families would require defensible classifications, and a causal claim about a rule would require a controlled change to it.
 
-## Cost, interruption, and what was checked
-
-The accounted run cost was **about $22.18**, far below the roughly $177 uncached projection. This includes $22.162295 in usage-based estimates plus a $0.019932 conservative allowance for attempts whose billing was unknown.
-
-The main saving came from **reusing saved decisions**. If the same strategy encountered the same histories at the same round, the runner reused its recorded action. Of 228,000 logical decisions, 24,841 required distinct saved responses; the remaining 203,159 were reuses—**89.1%**. This was application-level response reuse, not a provider prompt-cache discount.
-
-That is also part of the interpretation: this was one realized league with cached responses, not 228,000 independent model samples. Reuse can propagate the same sampled choice into several matches. Temperature zero does not make fresh repeated calls guaranteed to agree.
-
-The run paused after provider credits ran out, then resumed. The review found 24,851 successful attempts for 24,841 saved decisions: ten successful calls were repeated around the interruption. **Both successful attempts chose the same action in all ten cases.** The logs account for the extra cost, and the played results reconcile to the saved responses. Eight provider errors were recorded; there were no contract failures or substituted actions.
-
-The read-only review checked every scheduled pairing, all 114,000 round records, all 228,000 action/history links, the recorded outgoing prompts for saved decisions, every payoff, every match total, the standings, and the matchup matrix. The ZIP's decision cache and manifest matched the separately supplied copies byte for byte. See the [review summary](data/review_summary.json).
-
-This verifies the supplied records' internal consistency. It is not an independent source-code audit or a fresh league replication. The 30-point lead is the result of this official run; we have not estimated how often the same winner would recur under fresh samples.
-
 ## Explore your games
 
 Start with the **[entrant directory](entrants.md)**. Find your name or entry ID, open your page, and inspect any opponent's move sequence. Download your CSV to filter individual games, examine per-round scores, or compare the executor's recorded explanations with your submitted text.
