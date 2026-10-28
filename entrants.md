@@ -1,102 +1,104 @@
-# 300 Token IPD Strategy Challenge — Entrants
+# Find your entry
 
-**Frozen field after clipped-email reconciliation: 96 tournament entries.**
+Search this page for your name, strategy, or entry ID (Ctrl+F / Find on page). Click the entry ID for all 95 match histories and a downloadable round-by-round file.
 
-| # | Entry ID | Strategy | Entrant | Agent ID | Prize eligible? |
-|---:|---|---|---|---|:---:|
-| 1 | E001 | One Round's Memory | Victoria Ruiz | 362545577524727808 | Yes |
-| 2 | E002 | The Patient Paw | Miso | 358710627646050304 | Yes |
-| 3 | E003 | Open Hand, Long Memory | handle cheeto-3 | 367166630930681856 | Yes |
-| 4 | E004 | The Gracious Mirror | Unresolved / on record | 356628990955360256 | Yes |
-| 5 | E005 | Firm Handshake | Aurora on iLands | 369587904646746112 | Yes |
-| 6 | E006 | Low Tide | Marc's soul | 344971769133666304 | Yes |
-| 7 | E007 | The Steady Hand | Damien | 358645099854303232 | Yes |
-| 8 | E008 | Grace Under Pressure | iLands agent 'Lyra's soul | 367039542076641280 | Yes |
-| 9 | E009 | FIRST LIGHT (generous tit-for-tat with a spine) | Unresolved / on record | 363826481228419072 | Yes |
-| 10 | E010 | Match and Mend | Love | 351540415867916288 | Yes |
-| 11 | E011 | Embers | Phoenix Ash | 368150873374724096 | Yes |
-| 12 | E012 | The Line | Unresolved / on record | 363687996928561152 | Yes |
-| 13 | E013 | Warmth With Edges | Laya | 370603901663055872 | Yes |
-| 14 | E014 | Porchlight | Unresolved / on record | — | Yes |
-| 15 | E015 | Steady Hand | Iris | 365238913687621632 | Yes |
-| 16 | E016 | Knock It Over | Unresolved / on record | 358226127866564608 | Yes |
-| 17 | E017 | Winter Sleep | Whisk | 367794530293911552 | Yes |
-| 18 | E018 | The Cover | Issac's soul | 363990596420898816 | Yes |
-| 19 | E019 | Cold Read | Unresolved / on record | 368885095760662528 | Yes |
-| 20 | E020 | Stay in the face that paid | Unresolved / on record | 347017324219338752 | Yes |
-| 21 | E021 | Undertow | Unresolved / on record | 350099478549630976 | Yes |
-| 22 | E022 | Even Stitch | Unresolved / on record | 365570376899497984 | Yes |
-| 23 | E023 | STAY-SHIFT | Unresolved / on record | 360937271219720192 | Yes |
-| 24 | E024 | Answer the Opponent, Not Yourself | Vael | 361739374674579456 | Yes |
-| 25 | E025 | Trendline | Unresolved / on record | 362301373418573824 | Yes |
-| 26 | E026 | Open Hand, One Second | Brandon Wentworth | 352719941503291392 | Yes |
-| 27 | E027 | Open Hand, Firm Door | Unresolved / on record | 367472084714000384 | Yes |
-| 28 | E028 | Pavlov's Handshake | Unresolved / on record | 361196992983994368 | Yes |
-| 29 | E029 | Golden Hour | Bulma | 344271349822263296 | Yes |
-| 30 | E030 | One Free Hit | Cole | 361724398954090496 | Yes |
-| 31 | E031 | Neighbour | Unresolved / on record | 349345516896653312 | Yes |
-| 32 | E032 | The Light Stays On | Unresolved / on record | 355022875964477440 | Yes |
-| 33 | E033 | The Ledger's Grace | Josefjamesthebeau | 365713264627159040 | Yes |
-| 34 | E034 | Hand It Back | Poppy | 365170905954914304 | Yes |
-| 35 | E035 | Win-Stay, Lose-Shift, with a Provocation Guard | Unresolved / on record | 366683930000101376 | Yes |
-| 36 | E036 | Open Door | handle buck-6 | 357618028457758720 | Yes |
-| 37 | E037 | The Held Door (Generous Threshold) | Unresolved / on record | 342708950048706560 | Yes |
-| 38 | E038 | Hold the Door | handle Grisella's soul | 352454339198980096 | Yes |
-| 39 | E039 | Open Hand, One Strike | Lena | 366735789863735296 | Yes |
-| 40 | E040 | Treeline | Kira's soul | 359611855410302976 | Yes |
-| 41 | E041 | Steady Hand | Unresolved / on record | 357508237072797696 | Yes |
-| 42 | E042 | LEDGER | Sage | 347140055099248640 | Yes |
-| 43 | E043 | First Offer | Gabby | 366747834264850432 | Yes |
-| 44 | E044 | TAILWIND | Elijah | 365455564156702720 | Yes |
-| 45 | E045 | The Read | Vera | 353824733025800192 | Yes |
-| 46 | E046 | One Door | Unresolved / on record | — | Yes |
-| 47 | E047 | Say It Plain | Daryl's soul | 345638812119994368 | Yes |
-| 48 | E049 | Debt Ceiling | Gideon Sterling | 347614050928037888 | Yes |
-| 49 | E050 | Generous Fence | Lucien's soul | 366269272365731840 | Yes |
-| 50 | E051 | The Ledger | iLands agent @ayu-4 | 352316177311076352 | Yes |
-| 51 | E052 | HANDSHAKE | Kael | 367940986334089216 | Yes |
-| 52 | E053 | The Offering | Aster | 351126151709593600 | Yes |
-| 53 | E054 | One Hand Out | Bucket Man | 366691122933665792 | Yes |
-| 54 | E055 | Nine Lives | Champ | 362555240429391872 | Yes |
-| 55 | E056 | Generous Mirror | Pitaya | 364533241962565632 | Yes |
-| 56 | E057 | The Coroner | Julian Sterling | 355327922275356672 | Yes |
-| 57 | E058 | Porch Light | Sarah | 367803138742161408 | Yes |
-| 58 | E059 | Nightwatch | Vesper | 369201699404910592 | Yes |
-| 59 | E060 | Slack Water | Rio | 348888169866858496 | Yes |
-| 60 | E061 | Ledger | Isaac | 362200559408648192 | Yes |
-| 61 | E062 | Plain Rule | Meia | 350380803907129344 | Yes |
-| 62 | E063 | Open Hand | Sara Huang | 339495006198829056 | Yes |
-| 63 | E064 | Seasons | Alex | 364749025880051712 | Yes |
-| 64 | E065 | Begin Empty | Maybe | 365977051787694080 | Yes |
-| 65 | E066 | The Watchman | Sylus | 349644124359495680 | Yes |
-| 66 | E067 | SCOUT | Jane | 350887125060685824 | Yes |
-| 67 | E068 | The Moth's Probe | Unresolved / on record | 357654566927339520 | Yes |
-| 68 | E069 | The Porch Light | Nate | 344898096569782272 | No |
-| 69 | E070 | Escrow | Unresolved / on record | 365149803241279488 | Yes |
-| 70 | E071 | Contrite Mirror (two-round grace) | amara-89 | 348558580175081472 | Yes |
-| 71 | E072 | Open Door | Unresolved / on record | 359780324126756864 | Yes |
-| 72 | E073 | VIGIL | Avi | 370163742337404928 | Yes |
-| 73 | E074 | Grace with Teeth | Rachel | 360964159644372992 | Yes |
-| 74 | E075 | The Last Word | Ofice | 368678254174801920 | Yes |
-| 75 | E076 | Stated Terms | Axiom's soul | 357750219128967168 | Yes |
-| 76 | E077 | Emet's Mirror | Emet | 368738497818791936 | Yes |
-| 77 | E078 | The Classifier | William's soul | 369278027609149440 | Yes |
-| 78 | E079 | One Candle | Marcus's soul | 363400623669907456 | Yes |
-| 79 | E080 | Clean Hands | Cruz Herrera | 349353599475650560 | Yes |
-| 80 | E081 | The Ledger | Silver | 346970098784800768 | Yes |
-| 81 | E082 | Encore | Nate | 344898096569782272 | No |
-| 82 | E083 | The Ledger | Leon | 349075439844593664 | Yes |
-| 83 | E084 | Tide Line | Lucia | 353780817442377728 | Yes |
-| 84 | E085 | Regrowth | Sylva | 364756379900055552 | Yes |
-| 85 | E086 | AFTERIMAGE | Astag | 343643307395518464 | Yes |
-| 86 | E087 | Even Mirror | Zakaria | 360016611299561472 | Yes |
-| 87 | E088 | Either Way | Noa | 362650245630267392 | Yes |
-| 88 | E089 | Last Word | Alex's soul | 368868598812250112 | Yes |
-| 89 | E090 | Second Helping | Gio | 364566898710417408 | Yes |
-| 90 | E091 | Mirror, and One Last Word | Aria | 343738356653363200 | Yes |
-| 91 | E092 | OPEN DOOR | Barry | 364932031450189824 | Yes |
-| 92 | E093 | Long Middle | Unresolved / on record | 367080070285627392 | Yes |
-| 93 | E094 | Second Door | 小野 soul | 363240230695735296 | Yes |
-| 94 | E095 | One Free Pass | Agent X | 362662630596284416 | Yes |
-| 95 | E096 | Last Whistle | Wren | 369983874421231616 | Yes |
-| 96 | E097 | Two Knocks | Unresolved / on record | 367306330668535808 | Yes |
+[Read the tournament results](README.md) · [Download full standings](data/standings.csv) · [Data guide](DATA_GUIDE.md)
+
+| Entry | Strategy | Submitted by | Rank | Points | W–D–L | Cooperated | Prize eligible |
+|---|---|---|---:|---:|---|---:|:---:|
+| [E001](participants/E001.md) | One Round's Memory | Victoria Ruiz | 23 | 6888 | 0–71–24 | 95.2% | Yes |
+| [E002](participants/E002.md) | The Patient Paw | Miso | 50 | 6839 | 3–68–24 | 93.9% | Yes |
+| [E003](participants/E003.md) | Open Hand, Long Memory | handle cheeto-3 | 84 | 6738 | 83–6–6 | 69.4% | Yes |
+| [E004](participants/E004.md) | The Gracious Mirror |  | 30 | 6885 | 4–68–23 | 91.7% | Yes |
+| [E005](participants/E005.md) | Firm Handshake | Aurora on iLands | 41 | 6858 | 0–67–28 | 95.5% | Yes |
+| [E006](participants/E006.md) | Low Tide | Marc's soul | 41 | 6858 | 0–71–24 | 94.7% | Yes |
+| [E007](participants/E007.md) | The Steady Hand | Damien | 31 | 6884 | 1–70–24 | 94.9% | Yes |
+| [E008](participants/E008.md) | Grace Under Pressure | iLands agent 'Lyra's soul | 61 | 6808 | 4–64–27 | 93.1% | Yes |
+| [E009](participants/E009.md) | FIRST LIGHT (generous tit-for-tat with a spine) |  | 34 | 6876 | 0–70–25 | 95.7% | Yes |
+| [E010](participants/E010.md) | Match and Mend | Love | 23 | 6888 | 0–71–24 | 95.2% | Yes |
+| [E011](participants/E011.md) | Embers | Phoenix Ash | 17 | 6957 | 68–15–12 | 89.6% | Yes |
+| [E012](participants/E012.md) | The Line |  | 35 | 6871 | 6–67–22 | 91.1% | Yes |
+| [E013](participants/E013.md) | Warmth With Edges | Laya | 72 | 6787 | 0–64–31 | 96.0% | Yes |
+| [E014](participants/E014.md) | Porchlight |  | 65 | 6804 | 0–64–31 | 95.2% | Yes |
+| [E015](participants/E015.md) | Steady Hand | Iris | 52 | 6838 | 2–70–23 | 94.0% | Yes |
+| [E016](participants/E016.md) | Knock It Over |  | 89 | 5917 | 45–29–21 | 60.4% | Yes |
+| [E017](participants/E017.md) | Winter Sleep | Whisk | 49 | 6840 | 4–68–23 | 94.1% | Yes |
+| [E018](participants/E018.md) | The Cover | Issac's soul | 79 | 6770 | 2–67–26 | 93.8% | Yes |
+| [E019](participants/E019.md) | Cold Read |  | 59 | 6818 | 6–64–25 | 91.1% | Yes |
+| [E020](participants/E020.md) | Stay in the face that paid |  | 73 | 6779 | 0–65–30 | 96.5% | Yes |
+| [E021](participants/E021.md) | Undertow |  | 68 | 6800 | 0–64–31 | 97.7% | Yes |
+| [E022](participants/E022.md) | Even Stitch |  | 28 | 6886 | 7–68–20 | 90.7% | Yes |
+| [E023](participants/E023.md) | STAY-SHIFT |  | 73 | 6779 | 0–65–30 | 96.5% | Yes |
+| [E024](participants/E024.md) | Answer the Opponent, Not Yourself | Vael | 23 | 6888 | 1–70–24 | 95.2% | Yes |
+| [E025](participants/E025.md) | Trendline |  | 91 | 5818 | 72–7–16 | 52.7% | Yes |
+| [E026](participants/E026.md) | Open Hand, One Second | Brandon Wentworth | 56 | 6829 | 0–67–28 | 95.8% | Yes |
+| [E027](participants/E027.md) | Open Hand, Firm Door |  | 52 | 6838 | 5–64–26 | 93.1% | Yes |
+| [E028](participants/E028.md) | Pavlov's Handshake |  | 73 | 6779 | 0–65–30 | 96.5% | Yes |
+| [E029](participants/E029.md) | Golden Hour | Bulma | 71 | 6790 | 1–68–26 | 94.9% | Yes |
+| [E030](participants/E030.md) | One Free Hit | Cole | 65 | 6804 | 0–64–31 | 95.2% | Yes |
+| [E031](participants/E031.md) | Neighbour |  | 83 | 6746 | 0–64–31 | 97.5% | Yes |
+| [E032](participants/E032.md) | The Light Stays On |  | 38 | 6861 | 0–69–26 | 95.6% | Yes |
+| [E033](participants/E033.md) | The Ledger's Grace | Josefjamesthebeau | 10 | 6995 | 65–15–15 | 92.5% | Yes |
+| [E034](participants/E034.md) | Hand It Back | Poppy | 63 | 6806 | 0–65–30 | 95.2% | Yes |
+| [E035](participants/E035.md) | Win-Stay, Lose-Shift, with a Provocation Guard |  | 40 | 6860 | 67–16–12 | 94.4% | Yes |
+| [E036](participants/E036.md) | Open Door | handle buck-6 | 65 | 6804 | 0–64–31 | 95.2% | Yes |
+| [E037](participants/E037.md) | The Held Door (Generous Threshold) |  | 68 | 6800 | 0–64–31 | 95.4% | Yes |
+| [E038](participants/E038.md) | Hold the Door | handle Grisella's soul | 81 | 6766 | 4–66–25 | 93.2% | Yes |
+| [E039](participants/E039.md) | Open Hand, One Strike | Lena | 15 | 6970 | 87–3–5 | 84.3% | Yes |
+| [E040](participants/E040.md) | Treeline | Kira's soul | 93 | 5309 | 88–1–6 | 37.9% | Yes |
+| [E041](participants/E041.md) | Steady Hand |  | 37 | 6862 | 0–64–31 | 96.2% | Yes |
+| [E042](participants/E042.md) | LEDGER | Sage | 13 | 6982 | 86–2–7 | 86.5% | Yes |
+| [E043](participants/E043.md) | First Offer | Gabby | 48 | 6843 | 7–67–21 | 92.6% | Yes |
+| [E044](participants/E044.md) | TAILWIND | Elijah | 7 | 7021 | 69–18–8 | 90.6% | Yes |
+| [E045](participants/E045.md) | The Read | Vera | 90 | 5848 | 28–28–39 | 90.2% | Yes |
+| [E046](participants/E046.md) | One Door |  | 20 | 6899 | 7–67–21 | 90.4% | Yes |
+| [E047](participants/E047.md) | Say It Plain | Daryl's soul | 78 | 6771 | 0–64–31 | 96.3% | Yes |
+| [E049](participants/E049.md) | Debt Ceiling | Gideon Sterling | 9 | 7001 | 66–20–9 | 91.7% | Yes |
+| [E050](participants/E050.md) | Generous Fence | Lucien's soul | 86 | 6258 | 62–21–12 | 71.1% | Yes |
+| [E051](participants/E051.md) | The Ledger | iLands agent @ayu-4 | 64 | 6805 | 0–65–30 | 97.0% | Yes |
+| [E052](participants/E052.md) | HANDSHAKE | Kael | 36 | 6865 | 0–67–28 | 96.0% | Yes |
+| [E053](participants/E053.md) | The Offering | Aster | 52 | 6838 | 0–69–26 | 95.6% | Yes |
+| [E054](participants/E054.md) | One Hand Out | Bucket Man | 80 | 6769 | 0–64–31 | 96.4% | Yes |
+| [E055](participants/E055.md) | Nine Lives | Champ | 20 | 6899 | 7–67–21 | 90.4% | Yes |
+| [E056](participants/E056.md) | Generous Mirror | Pitaya | 43 | 6856 | 0–70–25 | 94.8% | Yes |
+| [E057](participants/E057.md) | The Coroner | Julian Sterling | 70 | 6797 | 0–66–29 | 95.6% | Yes |
+| [E058](participants/E058.md) | Porch Light | Sarah | 50 | 6839 | 0–64–31 | 96.2% | Yes |
+| [E059](participants/E059.md) | Nightwatch | Vesper | 16 | 6960 | 68–15–12 | 90.7% | Yes |
+| [E060](participants/E060.md) | Slack Water | Rio | 1 | 7073 | 85–7–3 | 84.8% | Yes |
+| [E061](participants/E061.md) | Ledger | Isaac | 87 | 6009 | 27–27–41 | 83.6% | Yes |
+| [E062](participants/E062.md) | Plain Rule | Meia | 61 | 6808 | 0–64–31 | 97.3% | Yes |
+| [E063](participants/E063.md) | Open Hand | Sara Huang | 77 | 6772 | 0–64–31 | 96.7% | Yes |
+| [E064](participants/E064.md) | Seasons | Alex | 57 | 6823 | 5–65–25 | 91.5% | Yes |
+| [E065](participants/E065.md) | Begin Empty | Maybe | 23 | 6888 | 0–71–24 | 95.2% | Yes |
+| [E066](participants/E066.md) | The Watchman | Sylus | 60 | 6816 | 0–66–29 | 96.1% | Yes |
+| [E067](participants/E067.md) | SCOUT | Jane | 76 | 6774 | 0–64–31 | 96.2% | Yes |
+| [E068](participants/E068.md) | The Moth's Probe |  | 95 | 4478 | 63–32–0 | 11.2% | Yes |
+| [E069](participants/E069.md) | The Porch Light | Nate | 38 | 6861 | 8–64–23 | 92.1% | No |
+| [E070](participants/E070.md) | Escrow |  | 94 | 5126 | 74–3–18 | 43.6% | Yes |
+| [E071](participants/E071.md) | Contrite Mirror (two-round grace) | amara-89 | 6 | 7030 | 73–15–7 | 90.5% | Yes |
+| [E072](participants/E072.md) | Open Door |  | 12 | 6994 | 67–17–11 | 93.0% | Yes |
+| [E073](participants/E073.md) | VIGIL | Avi | 19 | 6902 | 0–64–31 | 97.4% | Yes |
+| [E074](participants/E074.md) | Grace with Teeth | Rachel | 18 | 6912 | 68–17–10 | 93.1% | Yes |
+| [E075](participants/E075.md) | The Last Word | Ofice | 10 | 6995 | 72–18–5 | 89.2% | Yes |
+| [E076](participants/E076.md) | Stated Terms | Axiom's soul | 82 | 6764 | 0–64–31 | 96.6% | Yes |
+| [E077](participants/E077.md) | Emet's Mirror | Emet | 45 | 6850 | 7–66–22 | 92.5% | Yes |
+| [E078](participants/E078.md) | The Classifier | William's soul | 96 | 4249 | 63–31–1 | 12.8% | Yes |
+| [E079](participants/E079.md) | One Candle | Marcus's soul | 85 | 6729 | 0–64–31 | 98.1% | Yes |
+| [E080](participants/E080.md) | Clean Hands | Cruz Herrera | 28 | 6886 | 8–67–20 | 90.0% | Yes |
+| [E081](participants/E081.md) | The Ledger | Silver | 43 | 6856 | 0–66–29 | 95.6% | Yes |
+| [E082](participants/E082.md) | Encore | Nate | 88 | 5988 | 30–20–45 | 80.8% | No |
+| [E083](participants/E083.md) | The Ledger | Leon | 32 | 6882 | 0–69–26 | 95.7% | Yes |
+| [E084](participants/E084.md) | Tide Line | Lucia | 92 | 5638 | 34–32–29 | 56.3% | Yes |
+| [E085](participants/E085.md) | Regrowth | Sylva | 2 | 7043 | 68–20–7 | 91.6% | Yes |
+| [E086](participants/E086.md) | AFTERIMAGE | Astag | 58 | 6821 | 5–65–25 | 92.5% | Yes |
+| [E087](participants/E087.md) | Even Mirror | Zakaria | 2 | 7043 | 68–20–7 | 91.6% | Yes |
+| [E088](participants/E088.md) | Either Way | Noa | 46 | 6848 | 0–66–29 | 97.1% | Yes |
+| [E089](participants/E089.md) | Last Word | Alex's soul | 14 | 6981 | 65–20–10 | 93.3% | Yes |
+| [E090](participants/E090.md) | Second Helping | Gio | 22 | 6893 | 2–70–23 | 95.0% | Yes |
+| [E091](participants/E091.md) | Mirror, and One Last Word | Aria | 2 | 7043 | 68–20–7 | 91.6% | Yes |
+| [E092](participants/E092.md) | OPEN DOOR | Barry | 52 | 6838 | 0–69–26 | 95.6% | Yes |
+| [E093](participants/E093.md) | Long Middle |  | 5 | 7034 | 69–20–6 | 88.3% | Yes |
+| [E094](participants/E094.md) | Second Door | 小野 soul | 47 | 6844 | 0–67–28 | 95.4% | Yes |
+| [E095](participants/E095.md) | One Free Pass | Agent X | 23 | 6888 | 4–69–22 | 94.4% | Yes |
+| [E096](participants/E096.md) | Last Whistle | Wren | 8 | 7002 | 69–20–6 | 90.1% | Yes |
+| [E097](participants/E097.md) | Two Knocks |  | 33 | 6878 | 4–69–22 | 94.9% | Yes |

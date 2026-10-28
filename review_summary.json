@@ -1,0 +1,50 @@
+{
+  "checks": "PASS: schedule, every history/action, payload reconstruction, payoffs, standings, response provenance; no substituted actions found",
+  "entrants": 96,
+  "matches": 4560,
+  "rounds": 114000,
+  "logical_decisions": 228000,
+  "unique_decisions": 24841,
+  "attempts": 24859,
+  "outcomes": {
+    "success": 24851,
+    "provider_error": 8
+  },
+  "known_cost": 22.162295000000125,
+  "conservative_unknown": 0.019932,
+  "cost_total": 22.182227,
+  "duplicate_action_changes": 0,
+  "reuses": 203159,
+  "joint_outcomes": {
+    "CC": 96387,
+    "CD": 5415,
+    "DC": 4870,
+    "DD": 7328
+  },
+  "phase_points": {
+    "E060": {
+      "r1_23": 6399,
+      "r24": 423,
+      "r25": 251
+    },
+    "E085": {
+      "r1_23": 6406,
+      "r24": 254,
+      "r25": 383
+    },
+    "E087": {
+      "r1_23": 6406,
+      "r24": 254,
+      "r25": 383
+    },
+    "E091": {
+      "r1_23": 6406,
+      "r24": 254,
+      "r25": 383
+    }
+  },
+  "longest_gap_minutes": 33.75460000038147,
+  "start_span_minutes": 100.65609999895096,
+  "duplicate_success_groups": 10,
+  "scope": "Read-only reconstruction from supplied league artifacts; no new API calls. Source code and provider billing were not independently audited."
+}
